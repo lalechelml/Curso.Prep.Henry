@@ -1,0 +1,7 @@
+for: Es un bucle que repite una pieza de codigo una cierta cantidad de veces o hasta que condición.
+
+`&&`: Solo si todos los valores boléanos son verdaderos (true), entonces el valor resultante es verdadero, caso contrario el resultado es falso.
+
+`||`: Si alguno de los valores boléanos es verdadero (true), entonces el valor resultante es verdadero, caso contrario el resultado es falso.
+
+`!`: El valor booleano original es invertido, ejemplo: Si el valor original es “true” y se le agrega el operador  “!true”, esto es equivalente a “!true = false”.

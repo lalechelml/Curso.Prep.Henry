@@ -1,16 +1,12 @@
 Variables: Un espacio de memoria reservado para almacenar un dato.
 
-
 Strings: Dato almacenado en forma de texto o conjunto de caracteres (letras, números, etc).
-
 
 Funciones (argumentos, `return`):  Una función es un sementó del programa que realiza una 
 tarea en especifica, puede retornar un valor y también puede recibir parámetros que modifiquen su comportamiento.
 
-
 Declaraciones `if`: La declaración if es una condicional que evalúa una operación lógica. Por ejemplo, se puede 
 evaluar si una variable numérica es mayor a 5, y si cumple la condición se puede mostrar un mensaje “El número es mayor a 5”. 
 Caso contrario se podría mostrar mensaje “El número es menor a 5”.
-
 
 Valores booleanos (`true`, `false`): Son datos almacenados que solo pueden tener dos valores “verdadero” o “falso”.
