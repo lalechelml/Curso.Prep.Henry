@@ -1,0 +1,3 @@
+`prototype`: Permite agregar nuevos métodos a los constructores de objetos.
+
+Constructors (de Clases): Es un método que usa para inicializar las propiedades de un objeto.
