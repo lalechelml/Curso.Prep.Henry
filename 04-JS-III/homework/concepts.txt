@@ -1,1 +1,0 @@
-Arrays: Es una colección de datos, los datos puede ser del mismo tipo o diferentes, Puede aumentar su cantidad de elementos y también disminuir.

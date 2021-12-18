@@ -1,0 +1,9 @@
+Objetos: Un objeto es un contenedor de datos sobre una sola cosa.
+
+Propiedades: Una propiedad es un atributo que define las características de un objeto, por ejemplo, en carro(objeto) sus propiedades serían el color, marca, placa, modelo, etc.
+
+Métodos: Un método es una acción que puede hacer un objeto, por ejemplo, en un carro(objeto) sus métodos podrían ser: frenar, correr, retroceder, limpiar parabrisas, etc.
+
+Bucle `for…in`: A diferencia de los otros bucles, este se usa para iterar entre las propiedades y métodos de un objeto.
+
+Notación de puntos vs notación de corchetes: La notación de corchetes en mejor usarla cuando se quiere acceder a una propiedad o método por medio de una variable de tipo string “objecto[string]”, la notación de corchetes también se puede usar para acceder a propiedades que tengan caracteres especiales o espacio, si no se requiere de ninguna de estas funcionalidades no habría problema en usar la notación de punto.
